@@ -23,4 +23,4 @@ jobs:
 workflows:
   dev_test:
     jobs:
-      - say-hello
+      - dev_test
